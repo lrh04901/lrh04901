@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lrh04901 If you happen to speak Chinese, my Chinese name is 陆睿涵
-- 👀 I’m interested in ...
+- 👀 I’m interested in frontend
 - 🌱 I’m currently learning Vue.js and node.js
 - 💞️ I’m a student of Hangzhou Electronics & Information Vocational School
 - 📫 How to reach me ...
